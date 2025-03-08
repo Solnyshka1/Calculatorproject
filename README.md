@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1d8c6b4-3a62-4682-acbf-9054c527f37e)
+![image](https://github.com/user-attachments/assets/cada3236-6e48-4f51-9336-c6cfedcaab9e)
 Project Report: Calculator
 This project is a simple calculator that can perform basic and advanced mathematical operations. It supports addition, subtraction, multiplication, division, modulo, and functions like absolute value (abs), square root (sqrt), power (power), and rounding (round). It also has a history feature to store and view past calculations.
 
